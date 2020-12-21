@@ -1,3 +1,3 @@
-def using_concat(string1, string2)
+def using_concat(array1, array2)
   
 end
